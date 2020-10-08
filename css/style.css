@@ -28,16 +28,16 @@ figure {
   margin: 0 0 10px;
 }
 
-figcaption {
-  font: normal 0.75em/1.5em 'Elsie Swash Caps', cursive;
-  color: #777;
-  text-align: right;
-}
 
 table {
   margin: 0 0 20px;
   border-top: 1px solid #ccc;
   border-left: 1px solid #ccc;
+}
+figcaption {
+  font: normal 0.75em/1.5em 'Elsie Swash Caps', cursive;
+  color: #777;
+  text-align: right;
 }
 
 tr:nth-child(even) {
